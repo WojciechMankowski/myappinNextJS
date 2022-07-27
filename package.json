@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mantine/core": "^5.0.0",
+    "@mantine/hooks": "^5.0.0",
+    "@mantine/next": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}
