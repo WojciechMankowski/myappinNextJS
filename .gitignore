@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
+.env.dist
 # testing
 /coverage
 
@@ -33,3 +34,5 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+.vercel
